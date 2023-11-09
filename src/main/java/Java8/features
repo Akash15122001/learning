@@ -1,0 +1,39 @@
+*Functional programming
+    -focus on functions more than objects.
+
+*Lambda expression
+    -removes more of the boiler plate code.
+    -no file of an inner class.
+    -used in functional interface
+
+*Stream API
+    achieve concurrency
+    helps in debugging,collections,db connections.
+    -once used cannot be reused.
+    -Intermediate method and Terminate  method.
+
+*Define methods in interface
+    -Interface(1.0 to 1.7)
+        +At first, we were able to only declare methods in it.
+        +By default they r public  abstract.
+        +Static methods were not allowed.
+    -Interface(1.8)
+        +Should use default keyword.
+        +Cant override object class methods.
+        +Define static method.
+
+*Foreach method
+    -Internal part of Collections.
+    -Internal loops.
+    -Internal iterations.
+    -Uses Arrays.stream() and lambda expression.
+    -Implement consumer interface.
+
+*DateTime
+    -java.time.LocalDate
+
+*Method Reference
+    -Call by Method
+    -Passsing function to a function
+
+
